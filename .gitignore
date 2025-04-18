@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+Include/
+Lib/
+Scripts/
+share/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# PDF or large data files (optional)
+*.pdf
+app/data/*.pdf
+
+# Logs
+*.log
