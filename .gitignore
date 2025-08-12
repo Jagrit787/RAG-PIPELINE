@@ -29,6 +29,6 @@ Thumbs.db
 # PDF or large data files (optional)
 *.pdf
 app/data/*.pdf
-
+fastapi-project.tar.gz
 # Logs
 *.log
