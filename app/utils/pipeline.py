@@ -13,7 +13,7 @@ import os
 import glob
 import numpy as np
 import fitz
-
+# python -m ensurepip --upgrade
 load_dotenv()
 
 pinecone_api_key = os.getenv("PINECONE_API_KEY")
@@ -216,6 +216,7 @@ def get_answer_from_llm(query, context):
     {query}
 
     Answer the question using only the given context. If the context is insufficient, say you don't have enough information.
+    Don't say "according to the context" or "based on the context" in your answer. Give proper explanation for your answer and use good language. You can use the Internet for your answers if the context isnt sufficient.
 
     """
     response = model.generate_content(prompt)
