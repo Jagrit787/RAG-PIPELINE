@@ -1,0 +1,184 @@
+[
+  {
+    "id": "4c605c6f-4fbd-49d3-a32e-a77842cef194",
+    "title": "Section 1: Analysis of Source Documentation and",
+    "text": "Section 1: Analysis of Source Documentation and \nMethodology",
+    "start_char": 116,
+    "end_char": 182
+  },
+  {
+    "id": "0c99f473-4635-45d5-9449-38fb70c6692a",
+    "title": "1.1 Document Scope and Identification",
+    "text": "1.1 Document Scope and Identification \n \nThe source material under review is a composite document containing several distinct \nregulatory and standards publications pertinent to the Indian automotive sector. For clarity \nand precision in this analysis, the material has been logically segregated into three primary \ndocuments 1: \n●​ Document A (Pages 1-44): The Gazette of India, Extraordinary, Notification No. 651, \ndated September 16, 2016. The subject of this notification is the amendment of the \nCentral Motor Vehicles Rules, 1989, to introduce and enforce Bharat Stage VI (BS-VI) \nemission standards for motor vehicles. \n●​ Document B (Pages 45-67): Automotive Industry Standard AIS-119 (Rev.1):2016, titled \n\"Specific Constructional Requirements for Sleeper Coaches.\" This standard, along with \nits subsequent amendments, outlines the specific design and safety parameters for \nbuses intended for overnight travel with sleeping berths. \n●​ Document C (Pages 68-142): Automotive Industry Standard AIS-052 (Revision 1):2008, \ntitled \"Code of Practice for Bus Body Design and Approval.\" This comprehensive \nstandard, with its amendments, establishes the foundational requirements for the design, \nconstruction, and approval of all buses with a seating capacity of 13 or more passengers.",
+    "start_char": 182,
+    "end_char": 1479
+  },
+  {
+    "id": "536bcd4b-94f4-4923-ac4a-f0284680f705",
+    "title": "1.2 Confirmation of Non-Relevance of Document A",
+    "text": "1.2 Confirmation of Non-Relevance of Document A \n \nA thorough and exhaustive review of Document A, the 44-page Gazette notification \nconcerning BS-VI emission standards, confirms a complete absence of any clauses, \nterminology, or provisions related to visually impaired individuals, disabled passengers, or \naccessibility features in vehicles. The document's scope is strictly limited to technical \nspecifications for exhaust emissions, fuel standards, and associated testing protocols. \nConsequently, this report will focus exclusively on the relevant provisions found within \nDocuments B and C.1",
+    "start_char": 1479,
+    "end_char": 2081
+  },
+  {
+    "id": "7eb2138f-b0ab-4364-8b7c-c996e70ac305",
+    "title": "1.3 Methodology for Extraction and Analysis",
+    "text": "1.3 Methodology for Extraction and Analysis \n \nThe methodology employed for this report involves a detailed legal and technical \ninterpretation of the AIS-052 and AIS-119 standards. The analysis extracts verbatim \nrequirements from the standards, focusing on provisions explicitly mentioning \"visually \nimpaired people\" or using the inclusive legal terms \"Differently Abled Passengers\" and \n\"persons with disabilities,\" which statutorily include individuals with visual impairments. Each \nextracted provision is presented with its precise source and clause number, followed by an \nanalysis of its context, significance, and direct application to enhancing safety and \naccessibility for visually impaired passengers.",
+    "start_char": 2081,
+    "end_char": 2800
+  },
+  {
+    "id": "c13f48e4-c49e-4c70-af8a-30ac0669e43c",
+    "title": "Section 2: Accessibility Provisions in General Bus Body",
+    "text": "Section 2: Accessibility Provisions in General Bus Body \nDesign (AIS-052) \n \nThe \"Code of Practice for Bus Body Design and Approval\" (AIS-052) serves as the \nfoundational standard for all buses in India. It contains several critical clauses that mandate \nfeatures directly benefiting visually impaired passengers, ensuring that accessibility is \nintegrated at the manufacturing stage.",
+    "start_char": 2800,
+    "end_char": 3188
+  },
+  {
+    "id": "5f5b1ee3-2eb2-4980-9615-eda467375d65",
+    "title": "2.1 Visual and Tactile Aids for Safe Navigation",
+    "text": "2.1 Visual and Tactile Aids for Safe Navigation \n \n\n\nNavigating steps and changes in elevation is a significant safety challenge for individuals with \nvisual impairments. The standard addresses this through specific, prescriptive requirements \nfor visual cues. \nAccording to Clause 2.2.5.4 of AIS-052 (Rev. 1), steps must be designed \"...with all steps edges \ndesigned to minimise the risk of tripping and being in contrasting colour or colours. A yellow \ncolour band of 50 mm width shall be provided on all steps to assist visually impaired people\".1 \nThis clause employs a multi-faceted approach to enhance step visibility. It does not merely \nsuggest a general principle but mandates two distinct layers of visual aids. The requirement \nfor \"contrasting colour or colours\" serves as a general accessibility feature, helping individuals \nwith low vision to better differentiate the edge of a step from its surrounding surfaces. This \nimproves depth perception and reduces the risk of missteps. \nMore significantly, the standard prescribes a specific, high-visibility warning: \"A yellow colour \nband of 50 mm width.\" This is not an arbitrary choice. Yellow is one of the most luminous \ncolors in the visible spectrum and is universally recognized in safety and warning applications. \nIts high contrast against most common flooring materials makes it perceptible even in lower \nlight conditions or to individuals with certain types of color vision deficiency. By mandating \nthis specific feature, the standard creates a predictable and uniform safety language across \nthe national bus fleet, allowing visually impaired passengers to anticipate and recognize this \ncrucial visual cue. This shifts the responsibility for this fundamental accessibility feature from \nthe discretion of the transport operator to a mandatory requirement for the bus body builder, \nensuring it is an integral part of the vehicle's design and construction from inception.",
+    "start_char": 3188,
+    "end_char": 5139
+  },
+  {
+    "id": "6200c2f9-93e8-44c3-bc1b-be32c227ab51",
+    "title": "2.2 Auditory and Visual Information Systems for Orientation and",
+    "text": "2.2 Auditory and Visual Information Systems for Orientation and \nAwareness \n \nFor a visually impaired passenger, auditory information is the primary means of orientation \nand awareness during travel. AIS-052 mandates systems that provide this crucial information. \nClause 2.2.19.6 of AIS-052 (Rev. 1) stipulates that all Type I NDX (Non-Deluxe city) public \nservice buses \"shall be provided with Audio / Visual or Audio-Visual Information System \npermitting driver or recorded or digitised human speech / visual messages, to inform \npassengers inside the bus regarding the destination, bus stops etc.\".1 The provision of an \naudio system is vital for the independence of passengers who cannot read visual displays or \nidentify landmarks to determine their location. \nThe standard's specific requirement for \"recorded or digitised human speech\" demonstrates \na nuanced understanding of the practical challenges of auditory accessibility. In the often \n\n\nnoisy and chaotic environment of a public bus, a low-quality, robotic text-to-speech system \ncould be difficult to understand. Human speech, with its natural intonation and cadence, is \nmore robust and intelligible against background noise. This detail ensures that the information \nprovided is not just present but is effective and clear for those who rely on it completely. \nFurthermore, the standard creates a complete communication loop for passengers when \nrequesting a stop. Clause 2.2.19.5 requires that controls for requesting stops must have \n\"auditory and visual indications that the request has been made\".1 For a sighted passenger, a \nlight illuminates. For a visually impaired passenger, the mandated \"auditory indication\"—such \nas a distinct chime or a spoken \"stop requested\"—is the essential feedback mechanism. \nWithout this confirmation, the passenger would be left in a state of uncertainty, unsure if their \nrequest was registered. This requirement establishes a closed-loop system: the passenger \nacts (presses the button), and the system provides non-visual confirmation, building \nconfidence and reducing the anxiety associated with public transport.",
+    "start_char": 5139,
+    "end_char": 7269
+  },
+  {
+    "id": "229fd73e-213d-4748-8d50-38895e20e545",
+    "title": "2.3 Priority Seating and Physical Support Infrastructure",
+    "text": "2.3 Priority Seating and Physical Support Infrastructure \n \nThe standards ensure that passengers with disabilities have access to designated seating and \nthe physical support necessary to navigate the vehicle safely. \nClause 2.2.19.1 of AIS-052 (Rev. 1) mandates that \"All Type I buses shall have at least two \npassenger seats in case of Mini & Midi buses and four passenger seats in case of other buses \ndesignated as priority seats for persons with disabilities\".1 These seats must be indicated with \nappropriate signs as per Clause 2.2.19.2. While not exclusive to the visually impaired, this \nguarantees access to strategically located seating, typically near the entrance, which \nminimizes the need for navigating the length of a potentially crowded bus. \nTo facilitate safe boarding and alighting, Clause 2.2.19.4 of AIS-052 (Rev. 1) specifies \nrequirements for handrails. It states that handrails at the entrance of Type I buses must be \nconfigured to \"allow persons with disabilities to grasp such assists from outside the vehicle \nwhile starting to board, and to continue using such assists throughout the boarding \nprocess...\".1 The emphasis on continuity is critical. It means the handrail system must be \ndesigned without gaps, allowing a person relying on tactile guidance and support to maintain \na secure and continuous hold from the ground, up the steps, and into the passenger area. \nThis transforms the handrail from a series of isolated components into an integrated \nnavigational and safety system, essential for maintaining balance and orientation.",
+    "start_char": 7269,
+    "end_char": 8842
+  },
+  {
+    "id": "926fcd5a-28aa-4a80-bccc-8de23ae7dd5a",
+    "title": "Section 3: Specific Provisions in Sleeper Coaches",
+    "text": "Section 3: Specific Provisions in Sleeper Coaches",
+    "start_char": 8842,
+    "end_char": 8895
+  },
+  {
+    "id": "6361b4ce-029c-41ae-a192-c346c9f47e82",
+    "title": "(AIS-119)",
+    "text": "(AIS-119) \n \nThe standard for sleeper coaches, AIS-119, builds upon the foundational principles of AIS-052 \nand includes provisions specifically tailored to the unique environment of an overnight bus.",
+    "start_char": 8895,
+    "end_char": 9099
+  },
+  {
+    "id": "7f4f3dc4-b418-483b-9dd9-1f220294092d",
+    "title": "3.1 Designated Berths for Accessibility",
+    "text": "3.1 Designated Berths for Accessibility \n \nRecognizing the increased difficulty of navigating a sleeper coach, the standard mandates \naccessible berths. \nClause 4.9.1 of AIS-119 (Rev. 1) requires that \"At least one berth on lower tier nearer to the \nservice door shall be reserved for Differently Abled Passengers\".1 This provision is a direct \nparallel to the priority seating requirement in city buses and follows the same core principle: \nstrategic placement to enhance accessibility. By locating the reserved berth on the lower tier \nand near the service door, the standard minimizes the travel distance within the vehicle and \neliminates the need for a visually impaired passenger to climb a ladder to an upper berth, a \ntask that would present significant safety risks. This demonstrates a coherent regulatory \nphilosophy that prioritizes minimizing internal navigation for passengers with disabilities \nacross different types of bus services.",
+    "start_char": 9099,
+    "end_char": 10052
+  },
+  {
+    "id": "68063c30-4191-4d6a-9639-03fc4054b3d5",
+    "title": "3.2 Passenger Assistance and Communication Mechanisms",
+    "text": "3.2 Passenger Assistance and Communication Mechanisms \n \nTo ensure passengers with disabilities can request assistance when needed, especially in a \nlow-light overnight environment, a direct communication tool is mandated. \nClause 4.9.2 of AIS-119 (Rev. 1) states, \"A call bell shall be provided on the berth which is \nreserved for Differently Abled Passengers\".1 This provision serves as a crucial compensatory \nmeasure for the potential isolation and reduced mobility a visually impaired passenger may \nexperience. In a sleeper coach at night, when lights are dim and gangways may be \nobstructed, leaving the berth to locate the crew can be hazardous. The call bell directly \nmitigates this challenge by bringing the means of communication to the passenger. This \nsimple but effective mechanism addresses the potential difficulty of seeking help due to \nsensory impairment and the specific environment, enhancing both the safety and the sense of \nsecurity for the passenger.",
+    "start_char": 10052,
+    "end_char": 11034
+  },
+  {
+    "id": "887d6c71-e3fc-4b6a-ad4b-7f4fe7b82b90",
+    "title": "Section 4: Structured Data Compilation for RAG",
+    "text": "Section 4: Structured Data Compilation for RAG \nSystem Integration \n \nThis section organizes all extracted legal requirements into a granular, \"chunked\" format \noptimized for ingestion by a Retrieval-Augmented Generation (RAG) pipeline. Each data point \nis presented as a self-contained unit with clear source attribution and context.",
+    "start_char": 11034,
+    "end_char": 11372
+  },
+  {
+    "id": "d96d9fd4-c77d-46ef-9dd8-0f064268e514",
+    "title": "4.1 Summary of Provisions",
+    "text": "4.1 Summary of Provisions \n \nThe following table provides a high-level index of all relevant provisions for visually impaired \nand differently abled passengers identified in the source documents. \nTable 1: Summary of Provisions for Visually Impaired and Differently Abled Passengers \n \nProvision \nCategory \nSpecific \nRequirement \nSource \nDocument \nClause \nNumber \nPage in Source \n1 \nStep Safety & \nVisibility \nSteps must \nhave edges in \ncontrasting \ncolours to \nminimize \ntripping risk. \nAIS-052 (Rev. \n1)",
+    "start_char": 11372,
+    "end_char": 11879
+  },
+  {
+    "id": "ff08d894-2afa-480c-bcf7-91164421b46e",
+    "title": "2.2.5.4",
+    "text": "2.2.5.4 \n124 \nStep Safety & \nVisibility \nA mandatory \nyellow colour \nband of 50 \nmm width \nmust be on all \nsteps to assist \nvisually \nimpaired \npeople. \nAIS-052 (Rev. \n1)",
+    "start_char": 11879,
+    "end_char": 12051
+  },
+  {
+    "id": "e2ee349d-8a0b-402e-8bf6-41da163c0978",
+    "title": "2.2.5.4",
+    "text": "2.2.5.4 \n124 \n\n\nInformation \nSystem \nType I NDX \nbuses must \nhave an \nAudio-Visual \nsystem to \ninform \npassengers of \ndestinations \nand stops. \nAIS-052 (Rev. \n1)",
+    "start_char": 12051,
+    "end_char": 12214
+  },
+  {
+    "id": "84e5e33d-3c4c-4ea2-be6f-da3fe6328b8f",
+    "title": "2.2.19.6",
+    "text": "2.2.19.6 \n141 \nInformation \nSystem \nThe audio \ncomponent of \nthe \ninformation \nsystem must \nuse recorded \nor digitized \nhuman \nspeech. \nAIS-052 (Rev. \n1)",
+    "start_char": 12214,
+    "end_char": 12369
+  },
+  {
+    "id": "1e5fb036-2c53-4a76-af60-a56c53b6d5ca",
+    "title": "2.2.19.6",
+    "text": "2.2.19.6 \n141 \nStop Request \nAlert \nStop request \ncontrols must \nprovide both \nauditory and \nvisual \nindications \nupon \nactivation. \nAIS-052 (Rev. \n1)",
+    "start_char": 12369,
+    "end_char": 12521
+  },
+  {
+    "id": "cc0997f1-ef2f-43a4-8292-739d3eb125cc",
+    "title": "2.2.19.5",
+    "text": "2.2.19.5 \n141 \nPriority \nAccommodatio\nn \nType I buses \nmust have \ndesignated \npriority seats \nfor persons \nwith \ndisabilities (2 \nfor Mini/Midi, 4 \nfor others). \nAIS-052 (Rev. \n1)",
+    "start_char": 12521,
+    "end_char": 12702
+  },
+  {
+    "id": "18b64164-c2e7-477b-9b30-bec507354051",
+    "title": "2.2.19.1",
+    "text": "2.2.19.1 \n141 \nPhysical \nHandrails at \nType I bus \nAIS-052 (Rev.",
+    "start_char": 12702,
+    "end_char": 12768
+  },
+  {
+    "id": "d9edc815-9ab9-474a-8153-41ffdb694c7d",
+    "title": "2.2.19.4",
+    "text": "2.2.19.4 \n141 \n\n\nSupport \nentrances \nmust be \ncontinuous, \nallowing grasp \nfrom the \nground \nthroughout \nboarding. \n1) \nSleeper Coach \nBerth \nAt least one \nlower-tier \nberth near the \nservice door \nmust be \nreserved for \nDifferently \nAbled \nPassengers. \nAIS-119 (Rev. 1)",
+    "start_char": 12768,
+    "end_char": 13040
+  },
+  {
+    "id": "2bdac424-7c09-4792-bc73-c9e50888344f",
+    "title": "4.9.1",
+    "text": "4.9.1 \n57 \nSleeper Coach \nAssistance \nA call bell must \nbe provided on \nthe reserved \nberth for \nDifferently \nAbled \nPassengers. \nAIS-119 (Rev. 1)",
+    "start_char": 13040,
+    "end_char": 13188
+  },
+  {
+    "id": "023af4d0-312b-4ff9-b5e1-cc524834f8da",
+    "title": "4.9.2",
+    "text": "4.9.2 \n57",
+    "start_char": 13188,
+    "end_char": 13201
+  },
+  {
+    "id": "af9d9ba9-aeb1-4972-ad67-b829a544794c",
+    "title": "4.2 Granular Data Chunks for RAG Pipeline",
+    "text": "4.2 Granular Data Chunks for RAG Pipeline \n \nChunk ID: AIS-052-STEPS-01 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.5.4 \n●​ Subject: Step Edge Visibility for Visually Impaired \n●​ Requirement Text: \"...A yellow colour band of 50 mm width shall be provided on all steps \nto assist visually impaired people.\" ●​ Relevance: This is a specific, mandatory design requirement to enhance the visibility of \nsteps for visually impaired passengers by using a high-contrast yellow band, thereby \n\n\nimproving safety and reducing the risk of falls during boarding and alighting. Chunk ID: AIS-052-STEPS-02 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.5.4 \n●​ Subject: Step Edge Contrasting Colours \n●​ Requirement Text: \"...with all steps edges designed to minimise the risk of tripping and \nbeing in contrasting colour or colours.\" ●​ Relevance: This clause mandates the use of contrasting colors on step edges as a \ngeneral safety measure to make them more visible, which is particularly beneficial for \npassengers with low vision. Chunk ID: AIS-052-INFO-01 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.19.6 \n●​ Subject: Audio-Visual Information System \n●​ Requirement Text: \"All Type I NDX public service buses shall be provided with Audio / \nVisual or Audio-Visual Information System permitting driver or recorded or digitised \nhuman speech / visual messages, to inform passengers inside the bus regarding the \ndestination, bus stops etc.,\" \n●​ Relevance: This mandate ensures that passengers with visual impairments receive \ncritical travel information, such as upcoming stops and final destinations, through an \naudible format, enabling independent travel. Chunk ID: AIS-052-INFO-02 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.19.6 \n●​ Subject: Audio System Speech Quality \n●​ Requirement Text: \"...permitting driver or recorded or digitised human speech / visual \nmessages...\" \n●​ Relevance: The standard specifies the use of \"human speech\" for audio \nannouncements, ensuring a higher level of clarity and intelligibility compared to \nsynthesized speech, which is critical in noisy bus environments for passengers who rely \nsolely on auditory information. Chunk ID: AIS-052-STOP-ALERT-01 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.19.5 \n\n\n●​ Subject: Auditory Feedback for Stop Request \n●​ Requirement Text: \"All Type I NDX buses shall be provided with controls adjacent to \npriority seats for requesting stops and which alerts the driver... Such a system shall \nprovide auditory and visual indications that the request has been made.\" ●​ Relevance: The requirement for an \"auditory indication\" provides essential non-visual \nfeedback to a visually impaired passenger, confirming that their request to stop the bus \nhas been successfully registered by the system.",
+    "start_char": 13201,
+    "end_char": 16295
+  },
+  {
+    "id": "69f36385-182d-421b-9c00-c71ca8ceb0d7",
+    "title": "4.2 Granular Data Chunks for RAG Pipeline",
+    "text": "provide auditory and visual indications that the request has been made.\" ●​ Relevance: The requirement for an \"auditory indication\" provides essential non-visual \nfeedback to a visually impaired passenger, confirming that their request to stop the bus \nhas been successfully registered by the system. Chunk ID: AIS-052-SEATING-01 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.19.1 \n●​ Subject: Priority Seating for Persons with Disabilities \n●​ Requirement Text: \"All Type I buses shall have at least two passenger seats in case of \nMini & Midi buses and four passenger seats in case of other buses designated as priority \nseats for persons with disabilities.\" ●​ Relevance: This clause guarantees the availability of designated seats for passengers \nwith disabilities, including the visually impaired, typically located near the entrance for \neasier access. Chunk ID: AIS-052-HANDRAILS-01 \n●​ Source Document: AIS-052 (Revision 1): Code of Practice for Bus Body Design and \nApproval \n●​ Clause: 2.2.19.4 \n●​ Subject: Continuous Handrail Support for Boarding \n●​ Requirement Text: \"Handrails and / or stanchions shall be provided at the entrance of all \nType I buses in a configuration, which allows persons with disabilities to grasp such \nassists from outside the vehicle while starting to board, and to continue using such \nassists throughout the boarding process...\" \n●​ Relevance: This mandates a continuous and accessible handrail system, providing \nuninterrupted tactile guidance and physical support for visually impaired passengers \nthroughout the entire process of boarding the bus, from the ground to the interior. Chunk ID: AIS-119-BERTH-01 \n●​ Source Document: AIS-119 (Revision 1): Specific Constructional Requirements for \nSleeper Coaches \n●​ Clause: 4.9.1 \n●​ Subject: Reserved Berth for Differently Abled Passengers \n●​ Requirement Text: \"At least one berth on lower tier nearer to the service door shall be \nreserved for Differently Abled Passengers.\" ●​ Relevance: This provision ensures an accessible sleeping accommodation in sleeper \ncoaches for passengers with disabilities, including the visually impaired, by placing it on \n\n\nthe lower level and near the entrance to minimize navigation and eliminate the need to \nclimb. Chunk ID: AIS-119-ASSISTANCE-01 \n●​ Source Document: AIS-119 (Revision 1): Specific Constructional Requirements for \nSleeper Coaches \n●​ Clause: 4.9.2 \n●​ Subject: Call Bell on Reserved Berth \n●​ Requirement Text: \"A call bell shall be provided on the berth which is reserved for \nDifferently Abled Passengers.\" ●​ Relevance: This mandates a communication device at the reserved berth, allowing a \npassenger with a visual impairment to summon crew assistance without needing to \nnavigate the vehicle, which is a critical safety feature in a low-light, overnight \nenvironment. Works cited",
+    "start_char": 16005,
+    "end_char": 18902
+  },
+  {
+    "id": "bf6ad756-fbc7-45da-8b92-a97ae4d5ae1e",
+    "title": "1.​ d6.pdf",
+    "text": "1.​ d6.pdf",
+    "start_char": 18902,
+    "end_char": 18914
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "71c9b224-65d4-440b-b54c-8b9fe9f56e6b",
+    "title": "BIS IS 17802; biometric systems",
+    "text": "BIS IS 17802; biometric systems \nmust have speech/haptic output. \nBoth \nSec. 3.1, p. 38 \nICT & Digital \nResources \nDigital documents (PDFs) must \nconform to PDF-UA (Universal \nAccessibility) standards. \nBoth \nSec. 3.2.1, p. \n40 \nICT & Digital \nResources \nWebsites and videos must conform \nto WCAG Level AA standards. \nBoth \nSec. 3.2.1, p. \n40 \nICT & Digital \nResources \nAudio materials should be in DAISY \n(Digital Accessible Information \nSystem) format. \nBoth \nSec. 3.2.1, p. \n40 \nICT & Digital \nResources \nHEIs must provide assistive \ntechnology like computers with \nscreen readers and refreshable \nBraille displays. \nBoth \nSec. 3.4, p. 43 \nLearning \nResources \nHEIs must use and contribute to the \nSugamya Pustakalaya national \nonline library of accessible books. \nBoth \nSec. 3.2.4, p. \n42 \nLearning \nResources \nLibraries must provide services \nincluding talking books, Braille \nmaterials, and large-print books. \nBoth \nSec. 8.3.2, p. \n93 \nMobility & \nWayfinding \nInstallation of continuous tactile \npathways connecting all key \nbuildings. \nBlindness \nSec. 4.3.1, p. \n49; Sec. 5.1.3, \np. 57 \n\n\nMobility & \nWayfinding \nUse of GPS mapping or Bluetooth \nbeacon-based technologies for \ncampus navigation. \nBoth \nSec. 4.4, p. 50 \nMobility & \nWayfinding \nProvision of tactile maps or models \nfor orientation. \nBlindness \nSec. 5.11, p. 66 \nBuilt \nInfrastructure \nWalkway lighting at 35-40 lux to \nensure visibility of tactile pavers for \npersons with low vision. \nLow \nVision \nSec. 5.1.8, p. \n58 \nBuilt \nInfrastructure \nClassroom lighting at 250-300 lux \n(general) and 500-750 lux (teacher's \narea), avoiding flicker and glare. \nLow \nVision \nSec. 5.2.4, p. \n59 \nBuilt \nInfrastructure \nStair edges must have a 40mm \ncolor-contrasting band. \nLow \nVision \nSec. 5.2.6, p. \n61 \nBuilt \nInfrastructure \nTactile warning pavers must be \ninstalled 300mm before and after \nstairs and ramps. \nBlindness \nSec. 5.2.6, p. \n61 \nBuilt \nInfrastructure \nLift controls must have Braille and \ntactile markings, with audio-visual \nannouncements. \nBoth \nSec. 5.2.6, p. \n61 \nBuilt \nInfrastructure \nAuditorium row and seat numbers \nmust be in Braille and tactile \nformats. \nBoth \nSec. 5.3, p. 62 \nCampus \nAmenities \nATMs must be Braille-enabled with a \nheadphone jack for audio output. \nBoth \nSec. 5.10, p. 65 \nEmergency \nSystems \nEmergency alarms must be both \naudio (hooter) and visual (flashing \nbulb). \nBoth \nSec. 5.12, p. 66",
+    "start_char": 3834,
+    "end_char": 6238
+  },
+  {
+    "id": "a94c206d-4a6e-435c-9c2a-1d3a01a88d7b",
+    "title": "Section I: Foundational Needs and Support Provisions",
+    "text": "Section I: Foundational Needs and Support Provisions \n \nThe guidelines establish a comprehensive framework for support that begins with a detailed \nassessment of the specific needs of visually impaired students. This foundational \n\n\nunderstanding serves as the justification for all subsequent technical and procedural mandates \nwithin the document. The provisions detailed in Chapter 2 create a clear causal link between a \nstudent's requirements and the institution's responsibilities, ensuring that every mandated \nfacility or accommodation is a direct response to a recognized need.1",
+    "start_char": 6238,
+    "end_char": 6829
+  },
+  {
+    "id": "b8a94339-5ee3-46b6-82cd-20b6839b474f",
+    "title": "1.1 Disability-Specific Needs: Blindness and Low Vision",
+    "text": "1.1 Disability-Specific Needs: Blindness and Low Vision",
+    "start_char": 6829,
+    "end_char": 6888
+  },
+  {
+    "id": "e5925554-11af-49cf-b081-b3657af202e1",
+    "title": "Section 2.1.3 of the guidelines provides a granular breakdown of the needs of students with",
+    "text": "Section 2.1.3 of the guidelines provides a granular breakdown of the needs of students with \nblindness and low vision, which HEIs are required to address.1 These needs extend beyond \nacademics to encompass mobility, psycho-social well-being, and daily functioning on campus. \n• \nInformation Access Modalities: The primary need identified is the ability to access \ninformation through non-visual or enhanced-visual means. The document explicitly lists \na variety of required formats: Braille, audio, enlarged print, and digital formats that are \ncompatible with screen reading software. It also includes a broader category of \"other \ntactile and sensory systems,\" acknowledging the diverse technologies and methods \nused.1 \n• \nOrientation and Mobility (O&M): A critical need for assistance with orientation \n(understanding one's position in an environment) and mobility (navigating that \nenvironment safely and independently) is specified. This acknowledges that navigating a \nlarge and unfamiliar university campus presents significant challenges.1 The technical \nstandards for tactile pathways and GPS mapping in later chapters are a direct response \nto this identified need. \n• \nConceptual Development: The guidelines recognize that students with visual \nimpairments, particularly those with congenital blindness, may require support in \nconcept development. This is a nuanced acknowledgement that incidental learning, \nwhich often occurs visually, may be limited, and formal instruction may be needed to \nbuild a strong foundation for abstract academic concepts.1 \n• \nPsycho-Social and Emotional Support: The document mandates that HEIs recognize \nand provide for the potential need for emotional-behavioral and psycho-social support. \nThis addresses the holistic well-being of the student, acknowledging that adapting to a \nhigher education environment can present unique social and emotional challenges.1 \n• \nInfrastructure and ICT Assistance: A general need for assistance in the use of both \nphysical campus infrastructure and Information and Communication Technology (ICT) is \nlisted. This establishes the basis for providing hands-on training and support for \nnavigating buildings and using university portals, software, and other digital tools.1 \n• \nMedical Needs: The guidelines also include the possibility of frequent therapy or \nmedication as a specific need, ensuring that the institution's support systems are \nprepared to accommodate health-related requirements.1",
+    "start_char": 6888,
+    "end_char": 9372
+  },
+  {
+    "id": "45e25861-c56c-4030-8444-dd69519fd296",
+    "title": "1.2 Administrative and Academic Support: The Plus-Curriculum Framework",
+    "text": "1.2 Administrative and Academic Support: The Plus-Curriculum Framework \n \n\n\nThe guidelines introduce a transformative concept by mandating a \"Plus-Curriculum\" or \n\"Expanded Core-Curriculum\" for students with visual disabilities.1 This represents a significant \nevolution in the role of an HEI, shifting its responsibility from merely providing academic content \nto also ensuring students possess the foundational skills necessary to access that content. This \nframework mandates that HEIs provide structured training in areas that are prerequisites for \nacademic success and independent living. \nThis approach demonstrates a sophisticated understanding that true access is not achieved by \nsimply placing a student in a classroom. It requires equipping the student with the specific tools \nand skills to engage with the curriculum on an equal basis. By mandating this plus-curriculum, \nthe UGC effectively redefines the scope of an HEI's duty of care, compelling them to establish \nresource centers and hire specialized personnel, such as O&M instructors and Braille experts, \nto deliver this essential training. \nThe specific components of the Plus-Curriculum include 1: \n• \nBraille Literacy: Formal instruction in both Braille Reading and Braille Writing. \n• \nOrientation & Mobility (O&M): Professional training in O&M techniques for navigating \nthe campus and community. \n• \nSensory and Daily Living Skills: This includes training in Independent Living Skills and \nSensory Training, which focuses on the efficient use of hearing, touch, and other \nsenses. For students with low vision, this also includes training in the use of optical \ndevices. \n• \nSpecialized Academic Tools: Instruction in the use of non-visual mathematical \ndevices, specifically the Taylor's Frame & Abacus. \n• \nCompensatory Skills: Development of a range of skills necessary for accessing the \ncore curriculum, such as concept development, organizational and study skills, the \ninterpretation of tactile graphics, and the effective use of audio materials. \n• \nAssistive Technology (AT): Comprehensive training in the use of relevant assistive \ntechnologies.",
+    "start_char": 9372,
+    "end_char": 11509
+  },
+  {
+    "id": "7f3a92f6-3aba-4887-80d1-1b5e0f2eb8a4",
+    "title": "1.3 Teaching and Learning Accommodations",
+    "text": "1.3 Teaching and Learning Accommodations",
+    "start_char": 11509,
+    "end_char": 11553
+  },
+  {
+    "id": "99b2e7bb-0a02-412c-8612-4f398e1679fd",
+    "title": "Section 2.5 of the guidelines details specific accommodations required within the teaching and",
+    "text": "Section 2.5 of the guidelines details specific accommodations required within the teaching and \nlearning environment to ensure the full participation of students with visual disabilities.1 These \nmeasures focus on adapting the physical classroom and pedagogical methods. \n• \nClassroom Environment: Students must be allowed to determine their own ideal \nseating location. This empowers the student to choose a position that best allows them \nto see, hear, or, if necessary, touch the presented material, accommodating the wide \nvariance in individual needs. \n• \nVerbalization of Visual Information: A crucial pedagogical adaptation is the \nrequirement for faculty to provide verbal descriptions of visual information and \nactivities. The example given—stating how many hands were raised in response to a \n\n\nquestion—illustrates the principle of ensuring that non-visual learners are not excluded \nfrom the interactive elements of a lecture. \n• \nLaboratory Support: In scientific and technical courses, HEIs must provide assistance \nin labeling lab materials so that they are easily identifiable through tactile or large-print \nmeans. \n• \nNote-Taking Support: The guidelines explicitly permit the use of various technologies \nfor note-taking, including voice recorders, computers, and digital slates with styluses, \nrecognizing that traditional pen-and-paper methods may not be accessible.",
+    "start_char": 11553,
+    "end_char": 12944
+  },
+  {
+    "id": "9b4dbf97-0238-4776-9fbc-ac6703ef5b9b",
+    "title": "1.4 Assessment and Examination Accommodations",
+    "text": "1.4 Assessment and Examination Accommodations \n \nTo ensure that examinations test a student's knowledge of a subject rather than their ability to \novercome the limitations of their disability, the guidelines mandate a series of accommodations \nfor assessments and examinations.1 \n• \nCompensatory Time: The provision of compensatory, or extra, time for completing \nexaminations is a standard requirement. \n• \nAlternate Formats: Question papers must be made available in a range of accessible \nformats to suit the student's needs. These include Braille, large print, and audio. The \nuse of a human reader is also explicitly permitted. \n• \nTechnology in Exams: Students must be allowed to use computers or other assistive \ntechnology during examinations to read questions and write answers.",
+    "start_char": 12944,
+    "end_char": 13735
+  },
+  {
+    "id": "fd6c20f9-e5c6-40f6-9e5e-99371f521695",
+    "title": "Section II: Accessible Information, Communication, and Learning Resources",
+    "text": "Section II: Accessible Information, Communication, and Learning Resources \n \nThe guidelines dedicate significant attention to ensuring that all information within the HEI \necosystem is accessible, from procurement policies for technology to the format of daily \ninstructional materials. This section signals a systemic shift, pushing institutions away from a \nreactive model of converting materials on demand towards a proactive model where \naccessibility is a core requirement from the point of creation or purchase.",
+    "start_char": 13735,
+    "end_char": 14256
+  },
+  {
+    "id": "bc54a876-8364-49f2-b5c0-1646452388d0",
+    "title": "2.1 Procurement of Accessible ICT",
+    "text": "2.1 Procurement of Accessible ICT",
+    "start_char": 14256,
+    "end_char": 14293
+  },
+  {
+    "id": "b53f6e71-31f9-4bdf-b36c-d44e27b343a2",
+    "title": "Section 3.1 establishes a clear and non-negotiable standard for the procurement of all",
+    "text": "Section 3.1 establishes a clear and non-negotiable standard for the procurement of all \nInformation and Communication Technology (ICT).1 This upstream focus is a key policy lever, \ndesigned to solve accessibility issues at their source rather than through costly downstream \nremediation. By embedding accessibility into the procurement process, the guidelines aim to \nmake it a default feature of the campus's technological infrastructure. \n\n\n• \nMandatory Adherence to Standards: All ICT products and services procured or created \nby HEIs must adhere to the standards notified by the Bureau of Indian Standards (BIS), \nspecifically IS 17802. This includes everything from university websites and learning \nmanagement systems to software and office equipment. \n• \nPrinciple of Non-Exclusion: The policy is anchored by an unambiguous directive: an \ninstitution \"shall not purchase any ICT devices or services that are not usable by \npersons with disabilities\".1 This clause has profound implications for institutional \npurchasing departments, requiring them to develop expertise in accessibility standards \nand to include accessibility compliance as a mandatory criterion in all tenders. For \nexample, a biometric attendance system would be non-compliant unless it provides \nspeech or haptics output for users with blindness.1",
+    "start_char": 14293,
+    "end_char": 15621
+  },
+  {
+    "id": "6f24604e-e25a-49fb-a243-b63b22b5e0b0",
+    "title": "2.2 Accessibility of Instructional Materials",
+    "text": "2.2 Accessibility of Instructional Materials \n \nThe guidelines stress the importance of creating content that is \"Born Accessible,\" meaning it is \ndesigned for accessibility from the outset.1 This approach is more efficient and provides a better \nuser experience than retrofitting inaccessible documents. \n• \nDigital Format Standards: To ensure interoperability with assistive technologies, the \nguidelines specify the technical standards that various digital formats must meet 1: \no \nPDF: Documents must conform to the PDF-UA (Universal Accessibility) standard, which \nensures a logical reading order and proper tagging for screen readers. A simple scanned \nimage of a document is explicitly identified as inaccessible. \no \nWebsites and Videos: All web content, including videos, must conform to the Web \nContent Accessibility Guidelines (WCAG) at Level AA. \no \nAudio: Audio-based instructional materials should be provided in the DAISY (Digital \nAccessible Information System) format, which allows for structured navigation similar to \na print book. \no \nFonts: For Indian languages, digital documents must use Unicode-compliant fonts to \nensure they can be correctly interpreted and read aloud by screen reading software.1 \n• \nConversion Services: While promoting the \"Born Accessible\" principle, the guidelines \nacknowledge the vast amount of existing inaccessible material. HEIs are therefore held \nresponsible for converting instructional materials like print books and photocopied \nhandouts into accessible formats, including accessible EPUB, Braille, large print, and \naudio. This responsibility is legally supported by Section 52(1)(zb) of the Indian \nCopyright Amendment Act (2012), which permits such conversion for persons with \ndisabilities without requiring prior permission from the copyright holder.1",
+    "start_char": 15621,
+    "end_char": 17440
+  },
+  {
+    "id": "0acb40c6-5602-44a0-9cb7-bdd40cdf1fb2",
+    "title": "2.3 Sugamya Pustakalaya: The National Online Library",
+    "text": "2.3 Sugamya Pustakalaya: The National Online Library \n \n\n\nThe mandate to integrate with the Sugamya Pustakalaya (www.sugamyapustakalaya.in) is a \ncornerstone of the guidelines' strategy for providing accessible texts.1 This requirement moves \nbeyond institutional self-sufficiency to create a collaborative, national ecosystem for accessible \nlearning resources. By mandating participation, the UGC prevents the creation of hundreds of \nredundant, isolated collections of accessible books, instead fostering a federated, crowd-\nsourced national asset. This approach represents a highly efficient use of public and \ninstitutional resources, as a book converted by one university becomes immediately available \nto all others, creating a powerful network effect that rapidly expands the availability of \nmaterials. \n• \nCentralized Repository: HEIs are required to use the Sugamya Pustakalaya, a shared \nonline library of accessible format books for persons with print disabilities. \n• \nMandatory Workflow: The guidelines prescribe a specific workflow: before undertaking \nthe resource-intensive task of converting a book, an institution must first search the \nrepository. If the book is not available and is subsequently converted, the institution is \nthen obligated to upload the new accessible version to the Pustakalaya, thereby \nenriching the national collection. \n• \nMembership Provision: HEIs must provide membership to the Sugamya Pustakalaya to \nall their students and faculty members who have print disabilities.",
+    "start_char": 17440,
+    "end_char": 18962
+  },
+  {
+    "id": "eb7f3af0-c9df-4f01-8138-dfefd633560c",
+    "title": "2.4 Provision of Assistive Technologies (AT)",
+    "text": "2.4 Provision of Assistive Technologies (AT) \n \nThe guidelines recognize that access to information is contingent on access to the right \ntechnology. As part of the principle of reasonable accommodation, HEIs have a direct \nresponsibility to provide students with the necessary Assistive Technology (AT) devices.1 \n• \nInstitutional Responsibility: HEIs must ensure that every student, faculty, or employee \nwith a disability is provided with the AT they require. The document provides specific \nexamples, such as a computer equipped with screen reading software, a refreshable \nBraille display, and DAISY players.1 \n• \nTraining and Awareness: The provision of a device is considered incomplete without \nproper support. The guidelines mandate that the device must be accompanied by \nappropriate training for the user to ensure they can fully utilize its capabilities. \nFurthermore, HEIs must organize awareness and orientation events for faculty and staff \nabout these technologies, so that their use can be effectively integrated into teaching \nand learning methodologies.1",
+    "start_char": 18962,
+    "end_char": 20039
+  },
+  {
+    "id": "fe5d4861-d987-4c68-bea9-bf1385fde0c7",
+    "title": "Section III: The Accessible Campus: Mobility, Infrastructure, and Wayfinding",
+    "text": "Section III: The Accessible Campus: Mobility, Infrastructure, and Wayfinding \n \nThis section synthesizes the detailed technical specifications for the physical campus \nenvironment, ensuring it is navigable, safe, and usable for students with visual impairments. \nThe guidelines mandate a multi-modal and redundant design philosophy, combining physical, \ntactile, and digital systems to create a robust wayfinding ecosystem. A notable feature of this \n\n\nsection is its nuanced approach, providing differentiated standards that cater to the distinct \nneeds of individuals who are blind and those who have low vision.",
+    "start_char": 20039,
+    "end_char": 20657
+  },
+  {
+    "id": "dfdabe70-8fdc-43e6-ace7-415df00b7ea8",
+    "title": "3.1 Inclusive Mobility and Orientation",
+    "text": "3.1 Inclusive Mobility and Orientation",
+    "start_char": 20657,
+    "end_char": 20699
+  },
+  {
+    "id": "b20b1479-ae12-4969-a647-23713593d541",
+    "title": "Chapter 4 of the guidelines focuses on creating an environment that supports independent",
+    "text": "Chapter 4 of the guidelines focuses on creating an environment that supports independent \nmobility and orientation for all students.1 \n• \nTactile Pathways: The installation of a tactile guidance system is a mandatory feature \nfor pedestrian pathways. These paths, which use textured ground surface indicators, \nmust be continuous, free of breaks, and form a logical network connecting all major \nbuildings, facilities, and transport points on campus. This provides a physical, non-\nvisual route for individuals who are blind to follow.1 \n• \nTechnological Aids for Navigation: Recognizing the power of modern technology, the \nguidelines strongly encourage HEIs to supplement physical infrastructure with digital \nnavigation aids. The use of GPS mapping of the campus or the deployment of \nBluetooth beacon-based technologies is recommended. These systems allow \nstudents with visual impairments to use their smartphones with screen readers to get \nreal-time, turn-by-turn directions to locate buildings, classrooms, and other services.1 \n• \nPathway and Surface Standards: To ensure safety for all, including those with low \nvision and mobility impairments, walkways must be at least 1800 mm wide to allow for \ntwo-way traffic. The surface must be firm, level, and non-slip. A minimum vertical \nclearance of 2100 mm must be maintained along all accessible routes, free of any \nprotruding obstacles like low-hanging branches or signs.1",
+    "start_char": 20699,
+    "end_char": 22135
+  },
+  {
+    "id": "ab1f0ca5-f288-4a1c-a691-72640efbdcb0",
+    "title": "3.2 Signage and Wayfinding Systems",
+    "text": "3.2 Signage and Wayfinding Systems \n \nThe guidelines mandate a layered, multi-modal approach to signage, ensuring that information \nis available through multiple sensory channels.1 This redundancy ensures that if one method of \naccessing information fails or is unsuitable for a user, others are available. \n• \nMulti-Modal Information: All key signage must provide information in visual, audible, \nand tactile forms. Tactile information includes signs with embossed (raised) lettering \nor Braille.1 \n• \nTactile Maps: To provide a spatial overview of the campus or building layouts, HEIs \nshould install tactile maps or models. These allow users with visual impairments to \nunderstand the relative location of different facilities and plan their routes in advance.1 \n• \nTechnical Specifications for Visibility: For the benefit of individuals with low vision, \nsignage must be designed with high visual contrast. The material should be non-\nreflective with a matt finish to prevent glare, and it must be adequately illuminated to \nensure legibility in all lighting conditions.1",
+    "start_char": 22135,
+    "end_char": 23216
+  },
+  {
+    "id": "9bffb149-52ef-429f-9b3b-23ffcd2a4668",
+    "title": "3.3 Lighting Standards for Low Vision",
+    "text": "3.3 Lighting Standards for Low Vision \n \nThe guidelines demonstrate a sophisticated understanding of visual impairment by including \nspecific standards for illumination, which are critical for students with low vision. \n• \nPathway Illumination: Outdoor walkways, especially those with tactile pavers, should \nbe illuminated with white lighting at an average level of 35-40 lux. This is specified to \nensure that the color contrast of the tactile indicators remains visible at night to persons \nwith low vision, aiding in navigation.1 \n• \nClassroom Illumination: Inside learning spaces, a general illumination level of 250-300 \nlux is recommended. To help students with low vision focus on the instructor, a higher \nillumination level of 500-750 lux is preferable in the area where the teacher is located. \nThe lighting systems must be designed to avoid flicker and glare, which can cause eye \nstrain and headaches.1",
+    "start_char": 23216,
+    "end_char": 24135
+  },
+  {
+    "id": "fd0d9bfd-ed2d-46a8-856e-a0a6069fdf80",
+    "title": "3.4 Specific Infrastructure Elements",
+    "text": "3.4 Specific Infrastructure Elements \n \nThe guidelines extend accessibility requirements to numerous specific elements of the built \nenvironment throughout the campus. \n• \nStairs: To make level changes safer and more discernible for people with low vision, the \nedge of each stair must be marked with a 40mm color-contrasting band. For \nindividuals who are blind, tactile warning pavers must be installed 300mm before the \nstart of a stair run and 300mm after the end.1 A staircase is only considered fully \ncompliant when it addresses both sets of needs. \n• \nLifts/Elevators: All lift control panels, both inside the car and in the lobby, must have \nBraille and tactile markings. To provide non-visual information about the lift's \nmovement, there must be audio-visual announcements indicating the floor number \nand direction of travel.1 \n• \nAssembly Areas/Auditoriums: To aid in finding seats in large venues, the row and seat \nnumber identification signs must be provided in Braille and tactile formats.1 \n• \nCampus Amenities (ATMs): Any Automated Teller Machines (ATMs) installed on \ncampus must be accessible. This includes being Braille-enabled and having a standard \nheadphone jack to provide audio output of on-screen information for private use.1 \n• \nEmergency Preparedness: Emergency alarm systems must be accessible to all. This \nrequires them to be both audio (a loud hooter or siren) and visual (a bright, flashing \nstrobe light), ensuring that the alarm is perceived by individuals with vision and hearing \ndisabilities.1",
+    "start_char": 24135,
+    "end_char": 25674
+  },
+  {
+    "id": "f3c7ef59-4df1-499f-a70f-f332f8a32ace",
+    "title": "Section IV: Academic and Examination Frameworks",
+    "text": "Section IV: Academic and Examination Frameworks \n\n\n \nThe core academic functions of an HEI—curriculum delivery and student assessment—are \nsubject to rigorous accessibility standards under the guidelines. The overarching principle is to \nensure that all students have an equal opportunity to learn and to demonstrate their learning. \nThe examination provisions, in particular, are designed to ensure that assessments are a valid \nmeasure of a student's subject knowledge, not a test of their ability to function with a disability.",
+    "start_char": 25674,
+    "end_char": 26208
+  },
+  {
+    "id": "73419155-4ee1-4204-bbef-308e59a7378f",
+    "title": "4.1 Accessible Curriculum Design and Delivery",
+    "text": "4.1 Accessible Curriculum Design and Delivery",
+    "start_char": 26208,
+    "end_char": 26257
+  },
+  {
+    "id": "a49068e8-85d1-4f44-9069-16db633ff62d",
+    "title": "Chapter 6 of the guidelines outlines the requirements for making the curriculum and its",
+    "text": "Chapter 6 of the guidelines outlines the requirements for making the curriculum and its \nassociated learning resources accessible.1 The document promotes a dual approach: a \nproactive one, where courses are designed accessibly from the start using principles of \nUniversal Design for Learning (UDL), and a reactive one, where individual accommodations are \nprovided as needed. The emphasis is on shifting institutional practice towards the proactive \nmodel. \n• \nAlternate Formats: An accessible curriculum requires that all instructional materials \nare available in formats that students with visual impairments can use. The guidelines \nexplicitly mention the conversion of print materials into Braille, audio, or large print, \nand the provision of captioning and audio descriptions for video materials.1 \n• \nScreen Reader Compatibility: The guidelines highlight a common technical barrier, \nstating that digital documents, such as PDFs, must not be mere scanned images. Such \nfiles are inaccessible because screen reader technology cannot interpret the text. All \ndigital content must be properly formatted, text-based, and accessible.1 \n• \nAccessible Library Resources: The campus library is identified as a critical hub for \naccessible resources. Libraries are required to actively procure and provide materials in \naccessible formats. This includes maintaining a \"print-accessible library\" with the \ncapacity to make any content accessible upon request. Specific resources mentioned \ninclude talking books, Braille materials, and large-print books.1",
+    "start_char": 26257,
+    "end_char": 27814
+  },
+  {
+    "id": "ff9783a0-8daa-4cb7-8fa8-810efd705d79",
+    "title": "4.2 Accessible Assessment and Examination Systems",
+    "text": "4.2 Accessible Assessment and Examination Systems",
+    "start_char": 27814,
+    "end_char": 27867
+  },
+  {
+    "id": "93d8aee7-344b-4824-8938-c5145b4a57ff",
+    "title": "Chapter 7 reiterates and expands upon existing UGC provisions to create a robust framework for",
+    "text": "Chapter 7 reiterates and expands upon existing UGC provisions to create a robust framework for \naccessible examinations.1 These measures are designed to remove barriers in the assessment \nprocess, ensuring that students are evaluated on their academic merit alone. This requires \nexamination departments to move beyond logistics and engage in the pedagogical redesign of \nassessments to create equivalent, non-visual evaluation methods. \n•",
+    "start_char": 27867,
+    "end_char": 28308
+  },
+  {
+    "id": "5d49b39b-5fd4-4ca7-a5ac-f0c2edae330a",
+    "title": "UGC Provisions: The guidelines incorporate the provisions of UGC Notification F.No. 6-",
+    "text": "UGC Provisions: The guidelines incorporate the provisions of UGC Notification F.No. 6-\n2/2013 (SCT), which mandate the following 1: \n\n\no \nMode of Examination: Students with benchmark disabilities must be given the option \nto take examinations in their preferred format, including Braille, on a computer, or in \nlarge print. \no \nAssistive Devices: Candidates must be permitted to use their standard assistive \ndevices in the examination hall. For students with visual impairments, this includes \ntools like the tailor frame, Braille slate, abacus, geometry kit, and Braille measuring \ntape. \no \nAlternate Question Design: This is a critical pedagogical requirement. For questions \nthat rely on visual inputs, such as interpreting a graph, chart, or image, the examining \nbody must provide alternate questions that assess the same underlying skill or \nknowledge without relying on vision. \no \nOpen Book Exams: In the context of an open book examination, the required reading \nmaterials must be provided to the student in an accessible format, such as Braille or an \ne-text document on a computer equipped with suitable screen reading software. \n• \nFlexibility in Digital Assessment: The guidelines also look towards modern \nassessment methods, promoting flexibility in digital exams. This includes allowing \nstudents to personalize the view of questions (e.g., changing font type, size, or colors) \nand providing built-in text-to-speech software to read questions aloud, a feature that \nbenefits students with vision disabilities as well as those with learning disabilities like \ndyslexia.1",
+    "start_char": 28308,
+    "end_char": 29898
+  }
+]
